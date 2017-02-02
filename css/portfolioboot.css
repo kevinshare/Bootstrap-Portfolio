@@ -1,0 +1,79 @@
+body{
+	
+
+
+
+
+	background-color: black;
+	background-image: url("https://68.media.tumblr.com/27a74273bc8dbed1aa62041ff8854782/tumblr_o8bmzr8TMc1v54eezo1_500.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+body { padding-top: 70px; }
+
+	
+
+
+
+h1{
+	font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+	text-align: center;
+	margin: auto;
+	font-size: 150px;
+	color: #8B0000;
+	border: black;
+	border-width: 10px;
+	opacity: .9;
+	-webkit-text-stroke-width: 5px;
+   	-webkit-text-stroke-color: #F8F8FF;
+   	border-bottom: 5px solid #8B0000;
+}
+.picture{
+	margin: auto;
+
+}
+	
+h2{
+	font-size: 50px;
+	color: #F8F8FF; 
+}
+.jumbotron{
+	background-color: black;
+	opacity: .95;
+
+
+}
+.description{
+	font-style: bold;
+}
+ul{
+	font-weight: bold;
+	color: #F8F8FF;
+}
+
+}
+.row1{
+	border-bottom: 5px solid #8B0000;
+
+}
+.btn{
+	border-bottom: 5px solid #8B0000;
+}
+.navbar-brand{
+	border-bottom: 10px solid #8B0000;
+}
+.navbar{
+	border-bottom: 1px solid #F8F8FF;
+}
+.navbar{
+	background-color: black;
+}
+p {
+	text-align: center;
+	margin: auto;
+	padding: 60px;
+}
+@media screen and (max-width: 500px) {
+	h1{font-size: 90px;}
+}
